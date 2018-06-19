@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Song+Myung');
+.imgs {
+  padding: px;
+}
+
+video {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+video:hover {
+  opacity: 1.0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+.image_container {
+  padding: 15px 30px;
+  margin: 5px;
+  ;
+}
+
+body {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-image: url('http://cur.glitter-graphics.net/pub/3558/3558164hpyx8ag05u.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  color: #FF0059;
+  font-size: 45px;
+}
+
+marquee {
+  font-size: 80px;
+  text-decoration: ;
+  font-style: italic;
+  color: #ff1100;
+  border: double;
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+  text-shadow: 3px 2px darkblue;
+}
+
+h2, p {
+  font-family: 'Song Myung', serif;
+}
+
+button {
+  border: 3px solid #fff;
+  color: #fff;
+  background: red;
+  padding: 8px 30px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #940000;
+}
+
+p {
+  font-size: 25px;
+  color: white;
+}
